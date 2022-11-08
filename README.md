@@ -1,2 +1,2 @@
 # JumpForce
- Projeto feito em Java utilizando suas propriedades básicas para simular uma batalha entre personagens de One Piece.
+ Project made in Java using its basic properties to simulate a battle between One Piece characters, and a project that aims to be a book reading simulator.
